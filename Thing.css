@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	color: #a6a6a6;
+	background-color: #232729;
+	
+}
+header {
+	width: 100%;
+	height: 5%;
+	background-color: #9c9c9c;
+	border: 1px solid black;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	font-size: 30px;
+	text-align: end;
+	color: #232729;
+}
+h1 {
+	font-size: 80px;
+	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: #043254;
+	border: 1px solid black;
+	
+	background-color: darkgray;
+	text-align: center;
+}
+h2 {
+	font-size: 50px;
+	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: #232729;
+	border: 1px solid black;
+	
+	background-color: darkgray;
+	text-align: center;
+	
+}
+.inside {
+	margin-left: 20px;
+	margin-right: 20px;
+	background-color: #8c8b8b;
+	color: #232729;
+	
+}
+.text_column {
+	width: 100%;
+	text-align: justify;
+	padding-top: 0px;
+	padding-right: 0px;
+	padding-bottom: 0px;
+	padding-left: 0px;
+	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	color: #232729;
+}
+.mid {
+	align-content: center;
+	
+}
+.logo {
+	display: block; 
+	width: auto; 
+	margin: 0 auto
+}
+.backdrop {
+	background-color: #363636;
+	border-color: aliceblue;
+	border-radius: 5px;
+	
+}
