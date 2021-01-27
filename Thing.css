@@ -5,7 +5,7 @@ body {
 	
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: #a6a6a6;
-	background-color: #232729;
+	background-image: linear-gradient(to bottom right, #73726f, #4a4947)
 	
 }
 header {
@@ -17,6 +17,7 @@ header {
 	font-size: 30px;
 	text-align: end;
 	color: #232729;
+	border-radius: 5px;
 }
 h1 {
 	font-size: 80px;
@@ -26,6 +27,7 @@ h1 {
 	
 	background-color: darkgray;
 	text-align: center;
+	border-radius: 5px;
 }
 h2 {
 	font-size: 50px;
@@ -35,6 +37,7 @@ h2 {
 	
 	background-color: darkgray;
 	text-align: center;
+	border-radius: 5px;
 	
 }
 .inside {
