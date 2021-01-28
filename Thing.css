@@ -21,7 +21,8 @@ header {
 }
 h1 {
 	font-size: 80px;
-	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-family: aclonica;
+	
 	color: #043254;
 	border: 1px solid black;
 	
@@ -43,9 +44,11 @@ h2 {
 .inside {
 	margin-left: 20px;
 	margin-right: 20px;
+	padding: 15px;
 	background-color: #8c8b8b;
-	color: #232729;
+	color: 	#000000;
 	border-radius: 3px;
+	font-family: alice;
 }
 .text_column {
 	width: 100%;
