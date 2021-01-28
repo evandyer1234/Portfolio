@@ -50,6 +50,7 @@ h2 {
 	border-radius: 3px;
 	font-family: alice;
 	font-size: 20px;
+	background-size: 100%;
 }
 .text_column {
 	width: 100%;
