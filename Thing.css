@@ -21,7 +21,7 @@ header {
 }
 h1 {
 	font-size: 80px;
-	font-family: aclonica;
+	font-family: asset;
 	
 	color: #043254;
 	border: 1px solid black;
@@ -49,6 +49,7 @@ h2 {
 	color: 	#000000;
 	border-radius: 3px;
 	font-family: alice;
+	font-size: 20px;
 }
 .text_column {
 	width: 100%;
