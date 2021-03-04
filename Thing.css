@@ -1,5 +1,6 @@
 @charset "utf-8";
 /* CSS Document */
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=EB+Garamond:wght@600&display=swap');
 
 body {
 	
@@ -53,6 +54,7 @@ h2 {
 	font-size: 20px;
 	background-size: 100%;
 	background-repeat: no-repeat;
+	font-family: 'EB Garamond', serif;
 }
 .text_column {
 	width: 100%;
@@ -79,3 +81,4 @@ h2 {
 	border-radius: 5px;
 	
 }
+
