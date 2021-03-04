@@ -6,9 +6,10 @@ body {
 	
 	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
 	color: #a6a6a6;
-	background-image: linear-gradient(to bottom right, #73726f, #4a4947)
+	background-color: #141414;
 	
 }
+
 header {
 	width: 100%;
 	height: 5%;
@@ -21,6 +22,7 @@ header {
 	border-radius: 5px;
 	 
 }
+
 h1 {
 	font-size: 80px;
 	font-family: 'Bebas Neue', cursive;
@@ -32,17 +34,17 @@ h1 {
 	text-align: center;
 	border-radius: 5px;
 }
+
 h2 {
 	font-size: 50px;
-	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-family:  'Bebas Neue', cursive;
 	color: #232729;
-	border: 1px solid black;
-	
+	border: 1px solid black;	
 	background-color: darkgray;
 	text-align: center;
-	border-radius: 5px;
-	
+	border-radius: 5px;	
 }
+
 .inside {
 	margin-left: 20px;
 	margin-right: 20px;
@@ -50,12 +52,12 @@ h2 {
 	background-color: #8c8b8b;
 	color: 	#000000;
 	border-radius: 3px;
-	font-family: alice;
 	font-size: 20px;
 	background-size: 100%;
 	background-repeat: no-repeat;
 	font-family: 'EB Garamond', serif;
 }
+
 .text_column {
 	width: 100%;
 	text-align: justify;
@@ -63,22 +65,23 @@ h2 {
 	padding-right: 0px;
 	padding-bottom: 0px;
 	padding-left: 0px;
-	font-family:  Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+	font-family: 'Bebas Neue', cursive;
 	color: #232729;
 }
+
 .mid {
 	align-content: center;
 	
 }
+
 .logo {
 	display: block; 
 	width: auto; 
 	margin: 0 auto
 }
+
 .backdrop {
 	background-color: #363636;
 	border-color: aliceblue;
-	border-radius: 5px;
-	
+	border-radius: 5px;	
 }
-
