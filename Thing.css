@@ -91,6 +91,9 @@ h2 {
     -o-transform: rotate(180deg);
     -ms-transform: rotate(180deg);
     transform: rotate(180deg);
+	 display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
 .center {
   display: block;
